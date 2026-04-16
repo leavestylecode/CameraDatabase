@@ -25,7 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Total image count: 3,546 files
 - Coverage: 36 camera manufacturers
 
-## [1.0.0] - 2025-06-21
+## [1.0.0] - 2025-06-05
 
 ### Added
 - **Camera Database**: Initial release with 3,586 camera specifications

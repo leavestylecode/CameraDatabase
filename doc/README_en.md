@@ -4,7 +4,7 @@ An open-source database of camera specifications and images for research and app
 
 ## Overview
 
-This repository contains detailed specifications for 3,853 digital cameras from various manufacturers.
+This repository contains detailed specifications for 3,860 digital cameras from various manufacturers.
 
 
 
@@ -34,7 +34,7 @@ CameraDatabase/
 
 - `data/camera_data.csv`: CSV format camera specifications (37 columns)
 - `data/camera_data.json`: JSON format camera specifications (same data as CSV)
-- `data/images/`: Camera images organized by brand and model (3,851 images)
+- `data/images/`: Camera images organized by brand and model (3,858 images)
 
 ## Data Structure
 

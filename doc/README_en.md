@@ -141,6 +141,36 @@ The data is available in two formats:
   }
 ```
 
+## Quick Start
+
+### Python
+
+```python
+import pandas as pd
+
+df = pd.read_csv("data/camera_data.csv")
+
+# Filter by brand
+canon = df[df["Brand"] == "Canon"]
+print(f"Canon cameras: {len(canon)}")
+
+# Find full-frame cameras (crop factor = 1.0)
+ff = df[df["Crop factor"] == "1.0"]
+print(f"Full-frame cameras: {len(ff)}")
+```
+
+### JavaScript
+
+```javascript
+const fs = require("fs");
+
+const cameras = JSON.parse(fs.readFileSync("data/camera_data.json", "utf8"));
+
+// Filter by brand
+const sony = cameras.filter((c) => c.Brand === "Sony");
+console.log(`Sony cameras: ${sony.length}`);
+```
+
 ## Usage
 
 This dataset can be used for:

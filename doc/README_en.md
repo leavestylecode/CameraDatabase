@@ -4,7 +4,7 @@ An open-source database of camera specifications and images for research and app
 
 ## Overview
 
-This repository contains detailed specifications for 3,586 digital cameras from various manufacturers.
+This repository contains detailed specifications for 3,794 digital cameras from various manufacturers.
 
 
 

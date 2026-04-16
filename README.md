@@ -11,9 +11,9 @@ An open-source database of camera specifications and images for research and app
 
 ## Overview
 
-This repository contains detailed specifications for **3,586 digital cameras** from **36 manufacturers**, with **3,546 product images**.
+This repository contains detailed specifications for **3,794 digital cameras** from **36 manufacturers**, with **3,546 product images**.
 
-**Camera Brands**: Acer, AgfaPhoto, BenQ, Canon, Casio, Concord, Contax, Epson, Fujifilm, GE, HP, Jenoptik, JVC, Kodak, Konica, Konica-Minolta, Kyocera, Leica, Minolta, Minox, Nikon, Nokia, Olympus, Panasonic, Pentax, Praktica, Ricoh, Rollei, Samsung, Sanyo, Sigma, Sony, Toshiba, Vivitar, Yakumo, Zeiss
+**Camera Brands**: Acer, AgfaPhoto, BenQ, Canon, Casio, Concord, Contax, Epson, Fujifilm, GE, HP, JVC, Jenoptik, Kodak, Konica, Konica-Minolta, Kyocera, Leica, Minolta, Minox, Nikon, Nokia, Olympus, Panasonic, Pentax, Praktica, Ricoh, Rollei, Samsung, Sanyo, Sigma, Sony, Toshiba, Vivitar, Yakumo, Zeiss
 
 ## Quick Start
 
@@ -49,7 +49,7 @@ console.log(`Sony cameras: ${sony.length}`);
 
 | File | Format | Description |
 |------|--------|-------------|
-| `data/camera_data.csv` | CSV | 3,586 cameras, 37 columns |
+| `data/camera_data.csv` | CSV | 3,794 cameras, 37 columns |
 | `data/camera_data.json` | JSON | Same data in structured format |
 | `data/images/` | PNG/JPG | 3,546 product images |
 
